@@ -1,0 +1,12 @@
+{
+  "characters": "ABCDEFGHIJKLMNOPQRSTUVWZYXabcdefghijklmnopqrstuvwxyz0123456789!?.,\"'#%$()&+-=*/^:;><",
+  "size": {
+    "width": 5,
+    "height": 11
+  },
+  "glScale": 0.025,
+  "spacing": {
+    "x": 2,
+    "y": 12
+  }
+}
